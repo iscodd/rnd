@@ -53,14 +53,14 @@ function setup() {
   );
   reset = createButton(
     "⏹️",
-    (1 * x) / 3 - y / 12,
+    (2 * x) / 3 - y / 12,
     (1 * y) / 4 - y / 12,
     y / 6,
     y / 6
   );
   trackLoop = createButton(
     "🔂",
-    (2 * x) / 3 - y / 12,
+    (1 * x) / 3 - y / 12,
     (1 * y) / 4 - y / 12,
     y / 6,
     y / 6
